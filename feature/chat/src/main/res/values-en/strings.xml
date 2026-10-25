@@ -440,7 +440,7 @@
     <string name="chat_memory_empty" formatted="false">No memories yet. When you express preferences or important facts in a conversation, the model records them here via the memory tool.</string>
     <string name="chat_scratchpad_section" formatted="false">Task drafts (%1$d)</string>
     <string name="chat_scratchpad_empty" formatted="false">No drafts yet. On complex tasks the model keeps intermediate conclusions here via the scratchpad tool.</string>
-    <string name="chat_scratchpad_clear" formatted="false">Clear this session's drafts</string>
+    <string name="chat_scratchpad_clear" formatted="false">Clear this session\'s drafts</string>
     <string name="chat_tl_round" formatted="false">Round %1$d</string>
     <string name="chat_tl_model_response" formatted="false">Model response</string>
     <string name="chat_tl_lifecycle" formatted="false">Session lifecycle</string>
